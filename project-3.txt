@@ -16,5 +16,3 @@ To perform data analysis, I have mentioned 15 questions that we are going to sol
 11. How many People have Mastercard as their Credit Card Provider and made a purchase above 50?
 12. Find the email of the person with the following Credit Card Number: 4664825258997302
 13. How many people purchase during the AM and how many people purchase during PM?(value_counts())
-14. How many people have a credit card that expires in 2020?
-15. What are the top 5 most popular email providers (e.g. gmail.com, yahoo.com, etc...) 
